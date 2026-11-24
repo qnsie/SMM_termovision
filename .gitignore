@@ -1,0 +1,14 @@
+# Środowisko i cache Pythona
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Wideo (za duże na GitHuba)
+*.mp4
+*.avi
+
+# Śmieci systemowe i IDE
+.DS_Store
+.vscode/
